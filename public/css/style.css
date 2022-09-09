@@ -181,7 +181,8 @@ header .head-content .head-content-box .dick-menu-link .tel-link {
     font-weight: normal;
     letter-spacing: 0px;
     -webkit-font-smoothing: antialiased;
-    font-family: mrs-eaves-xl-serif-narrow, serif;
+    font-family: "Gotham Bold";
+    line-height: 1.2;
     text-indent: 0px;
     text-transform: uppercase;
     font-style: normal;
